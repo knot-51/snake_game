@@ -7,9 +7,7 @@ A Snake game built using Python.
 - Dynamic food spawning
 - Keyboard controls (arrow keys)
 
-## How to Run
+## How to Run (Make sure you're using a terminal that supports curses.)
 
 ```bash
 python snake_game.py
-
-(Make sure you're using a terminal that supports curses.)
